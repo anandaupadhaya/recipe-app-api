@@ -1,3 +1,4 @@
 {
-  "Interpreter": "vir_env\\Scripts\\python.exe"
+  "Interpreter": "vir_env\\Scripts\\python.exe",
+  "SuppressConfigureTestFrameworkPrompt": "true"
 }
