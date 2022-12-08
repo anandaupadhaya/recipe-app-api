@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\app",
+    "\\app\\app"
+  ],
+  "SelectedNode": "\\app\\app\\calc.py",
+  "PreviewInSolutionExplorer": false
+}
